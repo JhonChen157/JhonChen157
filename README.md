@@ -34,8 +34,6 @@ Feel free to explore my repositories and don't hesitate to reach out for collabo
 ## Connect with Me
 
 <p align="center">
-&nbsp; <a href="https://www.twitter.com/jhonchenxu157" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/twitter.png" width="50" /></a>
-&nbsp; <a href="https://www.youtube.com/jhon157" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/youtube.png" width="50" /></a>  
 &nbsp; <a href="https://www.instagram.com/jhon.chen157/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/instagram-new.png" width="50" /></a>  
 &nbsp; <a href="https://wa.me/-" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/whatsapp.png" width="50" /></a>
 &nbsp; <a href="https://www.facebook.com/jhon.chen157" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/facebook.png"  width="50" /></a>
