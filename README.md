@@ -1,7 +1,7 @@
 ## Hey There! I'm [Jhon](https://github.com/JhonChen157) 👋
 
 <div align="center">
-  <img align="center" src="https://github.com/RozhakXD/RozhakXD/raw/main/Python3.png">
+  <img align="center" src="https://github.com/JhonChen157/JhonChen157/blob/main/IMG_20240311_215816.png">
 </div>
 
 ## Introduction
@@ -13,7 +13,7 @@ I'm a software developer with a focus on the Python programming language. Here, 
 - Description: This is a script made purely in Python that works to hack random Instagram accounts.
 - Technologies Used: Python.
 - Key Features: This script has very perfect features equipped with the best methods.
-- Demo: You can see my project on [https://github.com/RozhakXD/Premium](https://github.com/RozhakXD/Premium).
+- Demo: You can see my project on [https://github.com/JhonChen157/InstaGM](https://github.com/JhonChen157/InstaGM).
 
 ## Skills
 - **Programming Languages**: Python
@@ -34,9 +34,9 @@ Feel free to explore my repositories and don't hesitate to reach out for collabo
 ## Connect with Me
 
 <p align="center">
-&nbsp; <a href="https://www.twitter.com/rozhak_official" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/twitter.png" width="50" /></a>
-&nbsp; <a href="https://www.youtube.com/rozhakid" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/youtube.png" width="50" /></a>  
-&nbsp; <a href="https://www.instagram.com/rozhak_official/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/instagram-new.png" width="50" /></a>  
-&nbsp; <a href="https://wa.me/6283847921480" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/whatsapp.png" width="50" /></a>
-&nbsp; <a href="https://www.facebook.com/rozhak.official" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/facebook.png"  width="50" /></a>
+&nbsp; <a href="https://www.twitter.com/jhonchenxu157" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/twitter.png" width="50" /></a>
+&nbsp; <a href="https://www.youtube.com/jhon157" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/youtube.png" width="50" /></a>  
+&nbsp; <a href="https://www.instagram.com/jhon.chen157/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/instagram-new.png" width="50" /></a>  
+&nbsp; <a href="https://wa.me/-" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/whatsapp.png" width="50" /></a>
+&nbsp; <a href="https://www.facebook.com/jhon.chen157" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/facebook.png"  width="50" /></a>
 </p>
