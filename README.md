@@ -1,7 +1,7 @@
 ## Hey There! I'm [Jhon](https://github.com/JhonChen157) 👋
 
 <div align="center">
-  <img align="center" src="https://github.com/JhonChen157/JhonChen157/blob/main/IMG_20240311_215816.png">
+  <img align="center" src="https://github.com/JhonChen157/JhonChen157/blob/main/20240312_200534.png">
 </div>
 
 ## Introduction
